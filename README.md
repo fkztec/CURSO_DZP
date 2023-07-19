@@ -125,10 +125,10 @@ Horário
 
 Turma de sábado
 
-| DATA |--| INSTRUÇÂO |
-|--- |--- |--- |
-|08/07/2023| - | Boas vindas | Introdução ao Treinamento | Curso Controle de versão com Git|
-|15/07/2023| - | Curso de Docker |
+| DATA | -                          | INSTRUÇÂO |
+| --- | --- | --- |
+|08/07/2023| - | Boas vindas  Introdução ao Treinamento  Curso Controle de versão com Git|
+|15/07/2023| - | Aula de Git Introdução ao Gitignore e checkout, gitrestore  |
 |22/07/2023| - | Curso de Docker |
 |29/07/2023| - | Curso de Docker |
 |05/08/2023| - | Curso Kubernetes |
